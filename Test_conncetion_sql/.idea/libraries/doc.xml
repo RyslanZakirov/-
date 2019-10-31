@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="doc">
+    <CLASSES>
+      <root url="file://C:/Библиотеки_и_т.д/Apache/apache-tomcat-9.0.26/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Библиотеки_и_т.д/commons-dbcp2-2.7.0-src.zip!/commons-dbcp2-2.7.0-src/doc" />
+      <root url="jar://C:/Библиотеки_и_т.д/commons-dbcp2-2.7.0-src.zip!/commons-dbcp2-2.7.0-src/src/main/java" />
+      <root url="jar://C:/Библиотеки_и_т.д/commons-dbcp2-2.7.0-src.zip!/commons-dbcp2-2.7.0-src/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Библиотеки_и_т.д/Apache/apache-tomcat-9.0.26/lib" recursive="false" />
+  </library>
+</component>
